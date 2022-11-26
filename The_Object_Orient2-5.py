@@ -73,7 +73,7 @@ and allows for a measure of control over the ripening process.
 
 
 Gardener.knowledge_base()
-tomatobush = TomatoBush(12)
+tomatobush = TomatoBush(3)
 gardener = Gardener("Васятка", tomatobush)
 gardener.work()
 gardener.work()
